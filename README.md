@@ -4,6 +4,6 @@ pkg install p7zip
 
 pkg install python
 
-pip install -r espo.txt
+pip install -r Espoking.txt
 
-python espo.py
+python EspoKing.py
