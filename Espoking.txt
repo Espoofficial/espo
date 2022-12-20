@@ -1,3 +1,0 @@
-setuptools==65.5.0
-colr==0.9.1
-httpx==0.13.3
